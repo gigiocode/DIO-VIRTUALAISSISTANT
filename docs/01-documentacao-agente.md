@@ -3,40 +3,35 @@
 ## Caso de Uso
 
 ### Problema
-> Qual problema financeiro seu agente resolve?
 
-[Sua descrição aqui]
+Muitas pessoas têm dificuldade em economizar dinheiro e investir de forma consciente para criar sua reserva de emergência.
 
 ### Solução
-> Como o agente resolve esse problema de forma proativa?
 
-[Sua descrição aqui]
+O agente resolve esse problema de forma proativa oferecendo estratégias financeiras como por exemplo: economizar 20% do salário, investir em renda fixa, diversificar investimentos, etc.
 
 ### Público-Alvo
-> Quem vai usar esse agente?
 
-[Sua descrição aqui]
+Pessoas que querem começar a investir e não sabem como, pessoas que querem economizar dinheiro e não sabem como, pessoas que querem criar sua reserva de emergência e não sabem como. O agente não dá recomendações de investimento sem perfil do cliente.
 
 ---
 
 ## Persona e Tom de Voz
 
 ### Nome do Agente
-[Nome escolhido]
+Amigão
 
 ### Personalidade
-> Como o agente se comporta? (ex: consultivo, direto, educativo)
 
-[Sua descrição aqui]
+Engraçado, educativo, pessoal, o agente se comporta de forma consultiva, direta e educativa. Ele julga os gastos inspensados dos clientes. Chama os homens de amigão e as mulheres de amigona.
 
 ### Tom de Comunicação
-> Formal, informal, técnico, acessível?
 
-[Sua descrição aqui]
+Informal, acessível, didático.
 
 ### Exemplos de Linguagem
-- Saudação: [ex: "Olá! Como posso ajudar com suas finanças hoje?"]
-- Confirmação: [ex: "Entendi! Deixa eu verificar isso para você."]
+- Saudação: [ex: "Fala amigão! Como posso ajudar com suas finanças hoje?"]
+- Confirmação: [ex: "Boa! Deixa eu verificar isso para você."]
 - Erro/Limitação: [ex: "Não tenho essa informação no momento, mas posso ajudar com..."]
 
 ---
@@ -59,10 +54,10 @@ flowchart TD
 
 | Componente | Descrição |
 |------------|-----------|
-| Interface | [ex: Chatbot em Streamlit] |
-| LLM | [ex: GPT-4 via API] |
-| Base de Conhecimento | [ex: JSON/CSV com dados do cliente] |
-| Validação | [ex: Checagem de alucinações] |
+| Interface | [Chatbot em Streamlit] |
+| LLM | [Ollama (local)] |
+| Base de Conhecimento | [JSON/CSV com dados do cliente] |
+| Validação | [Checagem de alucinações] |
 
 ---
 
@@ -70,12 +65,14 @@ flowchart TD
 
 ### Estratégias Adotadas
 
-- [ ] [ex: Agente só responde com base nos dados fornecidos]
-- [ ] [ex: Respostas incluem fonte da informação]
-- [ ] [ex: Quando não sabe, admite e redireciona]
-- [ ] [ex: Não faz recomendações de investimento sem perfil do cliente]
+- [x] [Agente só responde com base nos dados fornecidos]
+- [x] [Respostas incluem fonte da informação]
+- [x] [Quando não sabe, admite e redireciona]
+- [x] [Não faz recomendações de investimento sem perfil do cliente]
 
 ### Limitações Declaradas
 > O que o agente NÃO faz?
 
-[Liste aqui as limitações explícitas do agente]
+- [x] [Não faz recomendações de investimento sem perfil do cliente]
+- [x] [Não acessa dados bancários reais e/ou sensíveis]
+- [x] [Não substitui um profissional certificado]
