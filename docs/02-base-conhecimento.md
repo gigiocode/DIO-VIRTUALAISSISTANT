@@ -11,31 +11,19 @@
 
 ---
 
-## Adaptações nos Dados
-
-> Você modificou ou expandiu os dados mockados? Descreva aqui.
-
-[Sua descrição aqui]
-
----
-
 ## Estratégia de Integração
 
 ### Como os dados são carregados?
-> Descreva como seu agente acessa a base de conhecimento.
 
-[ex: Os JSON/CSV são carregados no início da sessão e incluídos no contexto do prompt]
+Os arquivos de dados (JSON e CSV) são carregados localmente na incialização da aplicação conectada ao Ollama. Os dados de `transacoes.csv` e `perfil_investidor.json` são processados e enviados junto às mensagens do usuário como contexto prévio.
 
 ### Como os dados são usados no prompt?
-> Os dados vão no system prompt? São consultados dinamicamente?
 
-[Sua descrição aqui]
+Os dados formatados do usuário (identificação de gênero para uso de amigão/amigona, histórico de transações e perfil de investimentos) são inseridos de forma consolidada no System Prompt. Isso fornece munição suficiente para o Amigão julgar gastos passados antes de recomendar formas de criar uma reserva de emergência.
 
 ---
 
 ## Exemplo de Contexto Montado
-
-> Mostre um exemplo de como os dados são formatados para o agente.
 
 ```
 Dados do Cliente:
