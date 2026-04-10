@@ -52,6 +52,9 @@ Ainda na raiz do projeto, digite o seguinte comando para abrir a interface no se
 python -m streamlit run src/app.py
 ```
 
+## ▶️ Evidência de Execução
+![alt text](./assets/image.png)
+
 ---
 
 ## 📂 Estrutura do Repositório

@@ -30,6 +30,3 @@ Basta estar na pasta raiz do repositório (fora do diretório `src`) e rodar:
 # 2. Inicie a tela
 python -m streamlit run src/app.py
 ```
-
-## ▶️ Evidência de Execução
-![alt text](image.png)
