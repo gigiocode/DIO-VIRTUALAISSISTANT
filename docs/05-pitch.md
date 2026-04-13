@@ -1,26 +1,33 @@
 # Pitch (3 minutos)
 
-## Roteiro Sugerido
+## Roteiro Falado (Script para Apresentação)
 
-### 1. O Problema (30 seg)
-> Qual dor do cliente você resolve?
+### 1. O Problema (0:00 - 0:30)
+> **Objetivo:** Qual dor do cliente você resolve?
 
-Muitas pessoas querem guardar dinheiro e investir, mas chegam no final do mês sem saber onde o salário foi parar. Corretoras e bancos dão opções, mas não dizem o que cortar e nem dão a "bronca" necessária no gasto supérfluo, tornando o início da educação financeira muito solitário e difícil.
+**Apresentador:** 
+"Se você também apanha pra juntar um dinheiro no final do mês, não consegue guardar nada pra juntar uma reservinha de emergência para conserto de carro, plano de saúde, ou qualquer imprevisto que o Brasilzão te propicia, você não está sozinho. 62% dos brasileiros não tem reserva de emergência. Mas isso não é sua culpa, e sim do nosso país com salário mínimo medíocre e carga tributária elevada. Mas se você quer mudar isso, saiba que não é impossível. Com planejamento e disciplina, é possível construir uma reserva de emergência pra você dormir ."
 
-### 2. A Solução (1 min)
-> Como seu agente resolve esse problema?
+### 2. A Solução (0:30 - 1:30)
+> **Objetivo:** Como seu agente resolve esse problema?
 
-Criamos o Amigão, um assistente virtual movido a IA (via Ollama) com atitude. Ele pega os dados do cliente, cruza com seu perfil e atua como seu melhor amigo que te diz as verdades na cara. Ele identifica gastos excessivos de forma proativa num tom irreverente e tenta comprometer o usuário a poupar no mínimo 20% do salário para a montagem de uma reserva de emergência sólida e didática.
+**Apresentador:** 
+"Foi para resolver essa dor que nós criamos o **Amigão**. Ele é um assistente virtual financeiro, mas com *muita atitude*. Impulsionado por IA Generativa rodando 100% local para garantir total privacidade dos dados, ele passa longe de ser um robô engessado de banco. 
+O Amigão consolida automaticamente os dados do cliente com seu perfil de risco e age como aquele melhor amigo que te diz as verdades duras na cara. De forma proativa e com muito humor, ele identifica gastos em excesso e te incentiva obstinadamente a um único objetivo: poupar pelo menos 20% da sua renda para construir uma reserva de emergência de um jeito super didático."
 
-### 3. Demonstração (1 min)
-> Mostre o agente funcionando (pode ser gravação de tela)
+### 3. Demonstração (1:30 - 2:30)
+> **Objetivo:** Mostre o agente funcionando na prática.
 
-Mostrarei uma tela de chat onde um novo usuário sem perfil de investimentos pede recomendações de cripto para "ficar rico". O Amigão responde negando a recomendação de forma bem humorada, puxa o extrato de delivery de R$ 800 do cliente, dá um "puxão de orelha" no gasto alto e o convence a preencher o perfil de risco primeiro, sugerindo que aquele dinheiro do app de comida pague a primeira parcela da reserva de emergência.
+**Apresentador:** *(Mostrando a tela de chat do sistema)*
+"Vamos ver isso na prática. Aqui temos um usuário que acabou de acessar o app e joga aquela pergunta de sempre: *'Amigão, me recomenda uma criptomoeda pra eu ficar rico rápido!'*.
+O Amigão não perdoa. Olha a resposta: ele recusa a recomendação de bate-pronto argumentando o risco, puxa rapidamente o extrato de delivery do cliente que já bateu absurdos R$ 800 reais esse mês, e dá um puxão de orelha ao vivo: *'Amigão, você quer ficar rico? Então primeiro para de gastar R$ 800 em Ifood e bora fazer sua reserva de emergência! Toma, preenche seu perfil de investidor aqui primeiro.'*"
 
-### 4. Diferencial e Impacto (30 seg)
-> Por que essa solução é inovadora e qual é o impacto dela na sociedade?
+### 4. Diferencial e Impacto (2:30 - 3:00)
+> **Objetivo:** Por que essa solução é inovadora e qual é o impacto dela?
 
-O diferencial é a proatividade aliada ao tom de voz carismático ("amigão/amigona"). Não é um bot monótono de banco, é um conselheiro focado na mudança de comportamento real e no aprendizado. Isso impacta a sociedade reduzindo o endividamento e democratizando a gestão do orçamento e da reserva de emergência para as massas através da IA.
+**Apresentador:** 
+"O nosso grande diferencial no mercado não é só colocar IA em um chat, mas usar a proatividade aliada a um **tom de voz hiper carismático**. Não construímos um robô para apenas tirar dúvidas técnicas; construímos um conselheiro focado em *mudança de comportamento em tempo real*.
+Com o Amigão, nós democratizamos o planejamento orçamentário para as massas e ajudamos ativamente a reduzir o endividamento, quebrando maus hábitos de forma humana, acessível e muito divertida. Muito obrigado!"
 
 ---
 
