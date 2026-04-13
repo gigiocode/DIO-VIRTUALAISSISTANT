@@ -9,7 +9,7 @@
 "Se você também apanha pra juntar um dinheiro no final do mês, não consegue guardar nada pra juntar uma reservinha de emergência para conserto de carro, plano de saúde, ou qualquer imprevisto que o Brasilzão te propicia, você não está sozinho. 62% dos brasileiros não tem reserva de emergência. Mas isso não é sua culpa, e sim do nosso país com salário mínimo medíocre e carga tributária elevada. Mas se você quer mudar isso, saiba que não é impossível. Com planejamento e disciplina, é possível construir uma reserva de emergência pra você dormir ."
 
 ### 2. A Solução (0:30 - 1:30)
-> **Objetivo:** Como seu agente resolve esse problema?
+> **Objetivo:** Como seu agente resolve esse problema??
 
 **Apresentador:** 
 "Foi para resolver essa dor que nós criamos o **Amigão**. Ele é um assistente virtual financeiro, mas com *muita atitude*. Impulsionado por IA Generativa rodando 100% local para garantir total privacidade dos dados, ele passa longe de ser um robô engessado de banco. 
